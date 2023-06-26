@@ -1,6 +1,6 @@
 # EksamenDarbs
 
-Eksmen darbs cikls "Cikls ar skaitītāju strādājot ar C# programmēšanas valodu Unity dzinī"
+Eksamen darbs programmēšanā "Cikls ar skaitītāju strādājot ar C# programmēšanas valodu Unity dzinī"
 
 
 
