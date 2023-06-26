@@ -1,0 +1,136 @@
+Initialize engine version: 5.5.6f1 (3fb31a95adee)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f82)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   31.0.15.2756
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.754 seconds
+Platform assembly: C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aleks\OneDrive\Desktop\Ekzamen darbs\EksamenDarbs\Quiz_UnityCilklsArSkaititaju\Quiz_CiklsArSkaititaju_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.031900 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.933700 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 337.
+Total: 0.314500 ms (FindLiveObjects: 0.029900 ms CreateObjectMapping: 0.016900 ms MarkObjects: 0.257300 ms  DeleteObjects: 0.008900 ms)
+
+Correct Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Correct Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Out of guestions!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.546600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 337.
+Total: 0.320600 ms (FindLiveObjects: 0.038300 ms CreateObjectMapping: 0.041900 ms MarkObjects: 0.236200 ms  DeleteObjects: 0.003500 ms)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Correct Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Correct Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrong Answer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Out of guestions!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.481200 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 0.239800 ms (FindLiveObjects: 0.026900 ms CreateObjectMapping: 0.019900 ms MarkObjects: 0.184100 ms  DeleteObjects: 0.008300 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2f64 -> priority: 1 
+  Thread -> id: 2034 -> priority: 1 
