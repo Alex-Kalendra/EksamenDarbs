@@ -16,4 +16,4 @@ Eksmen darbs cikls "Cikls ar skaitītāju strādājot ar C# programmēšanas val
  
  Use Case diagramma: 
  
- ![Activity drawio (1)](https://github.com/Alex-Kalendra/Quiz_Unity/assets/128357776/7853ced6-f42c-4586-9e39-e13f3bf85d1c)
+ ![Use Case](https://github.com/Alex-Kalendra/Quiz_Unity/assets/128357776/7853ced6-f42c-4586-9e39-e13f3bf85d1c)
